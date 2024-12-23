@@ -1,0 +1,6 @@
+com\youtube\javapuzzle\service\CustomerService.class
+com\youtube\javapuzzle\config\MasterSwaggerConfig.class
+com\youtube\javapuzzle\entity\Customer.class
+com\youtube\javapuzzle\controller\CustomerController.class
+com\youtube\javapuzzle\MasterServiceApplication.class
+com\youtube\javapuzzle\repository\CustomerRepository.class

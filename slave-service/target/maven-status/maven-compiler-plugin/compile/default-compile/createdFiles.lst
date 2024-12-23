@@ -1,0 +1,8 @@
+com\youtube\javapuzzle\config\DebeziumConnectorConfig.class
+com\youtube\javapuzzle\config\SlaveSwaggerConfig.class
+com\youtube\javapuzzle\service\CustomerService.class
+com\youtube\javapuzzle\SlaveServiceApplication.class
+com\youtube\javapuzzle\listener\DebeziumListener.class
+com\youtube\javapuzzle\entity\Customer.class
+com\youtube\javapuzzle\controller\CustomerController.class
+com\youtube\javapuzzle\repository\CustomerRepository.class

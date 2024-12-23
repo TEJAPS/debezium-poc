@@ -1,0 +1,8 @@
+E:\debezium-poc\slave-service\src\main\java\com\youtube\javapuzzle\config\DebeziumConnectorConfig.java
+E:\debezium-poc\slave-service\src\main\java\com\youtube\javapuzzle\controller\CustomerController.java
+E:\debezium-poc\slave-service\src\main\java\com\youtube\javapuzzle\config\SlaveSwaggerConfig.java
+E:\debezium-poc\slave-service\src\main\java\com\youtube\javapuzzle\repository\CustomerRepository.java
+E:\debezium-poc\slave-service\src\main\java\com\youtube\javapuzzle\service\CustomerService.java
+E:\debezium-poc\slave-service\src\main\java\com\youtube\javapuzzle\SlaveServiceApplication.java
+E:\debezium-poc\slave-service\src\main\java\com\youtube\javapuzzle\listener\DebeziumListener.java
+E:\debezium-poc\slave-service\src\main\java\com\youtube\javapuzzle\entity\Customer.java
